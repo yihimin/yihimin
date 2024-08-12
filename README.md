@@ -22,9 +22,8 @@ I'm [Your Name], a passionate developer with a love for creating innovative solu
 - Python for Data Science and Automation
 
 ### 📫 How to reach me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
-- Twitter: [Your Twitter](https://twitter.com/your-handle)
+- Email: (yihimin01@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/%ED%9D%AC%EB%AF%BC-%EC%9D%B4-984366238/) 
 
 ### 😄 Pronouns: 
 - She/Her
@@ -36,12 +35,8 @@ I'm [Your Name], a passionate developer with a love for creating innovative solu
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### 🖼️ Featured Projects
-- [Project 1](https://github.com/your-repo): A brief description of what this project does.
-- [Project 2](https://github.com/your-repo): Another brief description of this project.
-
-### 📝 Latest Blog Posts
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
+- [Frontend Project](https://medium.com/@yihimin01/쿠팡풀필먼트서비스-개발팀-인턴-6-13-8-24-238cc4481cdf)
+- [Backend Project](https://medium.com/@yihimin01/백엔드-반려동물-카페-프론트엔드와-통신-f20d402d0f9e)
 
 ### 🛠️ Languages and Tools
 ![Tools](https://skillicons.dev/icons?i=react,nodejs,express,typescript,python,mongodb,docker,git,github,figma&theme=light)
