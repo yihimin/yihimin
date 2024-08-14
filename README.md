@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-![Your Image Alt Text](https://your-image-url.com) <!-- 여기에 이미지 URL을 넣으세요 -->
-
-I'm [Your Name], a passionate developer with a love for creating innovative solutions and exploring new technologies.
+I'm HIMIN, a passionate developer with a love for creating innovative solutions and exploring new technologies.
 
 ### 🔭 I’m currently working on
 - Building [Project Name](https://github.com/your-repo) using `React`, `Node.js`, and `Express`
