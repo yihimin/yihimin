@@ -22,7 +22,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihimin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihimin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihimin&layout=compact&theme=radical&cache_seconds=86400
+)
 
 </div>
 
