@@ -22,11 +22,21 @@
 
 <div align="center">
 
-  <img src="https://render.gitanimals.org/farms/{yihimin}"/>
+## 📖 My History
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihimin&show_icons=true&theme=radical)
+| Date                  | Organization                 | Position      |
+|-----------------------|------------------------------|---------------|
+| 2023-07-02~ 2023-08-25| 쿠팡풀필먼트서비스 개발팀 인턴       | Front End     |
+| 2023.12.30~ 2024.01.14| WFK ICT 교육 봉사 (르완다)       | IT Team Leader|
+| 2023.03.01~ 2024.12.31| 토독 필사페이지                  | Front End     |
+| 2024-05-03~ 2024-09-13| 엘리스 프론트엔드 인턴             | Front End     |
+| 2024-05-20~ 2024-06-03| 멍멍냥냥 펫 커뮤니티               | Back End     |
+| 2024.12.02~           | Modern Agile (9term)          | Front End    |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihimin&layout=compact&theme=radical&cache_seconds=86400
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihimin&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihimin&layout=compact&theme=synthwave&cache_seconds=86400
 )
 
 
@@ -63,7 +73,7 @@
 ## 🎓 경험
 
 ### 인턴십
-1. **쿠팡 물류 서비스** (2023): 채용 웹사이트의 정적 영역 작업
+1. **쿠팡풀필먼트풀필먼트** (2023): 채용 웹사이트의 정적 영역 작업
 2. **엘리스** (2024): Material UI(React)로 레거시 시스템 마이그레이션 프로젝트
 
 ### 리더십 역할
@@ -91,3 +101,4 @@
 </div>
 
 방문해 주셔서 감사합니다! 🚀
+  <img src="https://render.gitanimals.org/farms/{yihimin}"/>
