@@ -99,5 +99,11 @@
 [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yihimin@gmail.com)
 
 </div>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yihimin"
+  width="600"
+  height="300"
+/>
+</a>
 방문해 주셔서 감사합니다! 🚀
