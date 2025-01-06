@@ -8,8 +8,6 @@
 
 <div align="center">
 
-  <img src="https://render.gitanimals.org/lines/{yihimin}?pet-id=656763449834596716" width="1000" height="120"/>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Yi%20Himin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 </div>
