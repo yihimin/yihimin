@@ -1,11 +1,3 @@
-# 👋 안녕하세요, 이희민입니다!
-
-## 💻 소개
-
-저는 **법학과 IT**를 아우르는 다양한 배경을 가진 열정적인 **프론트엔드 개발자**입니다. 현재는 **프론트엔드, 백엔드, 인프라 개발**에 중점을 두고 실력을 쌓으며 숙련된 웹 개발자가 되기 위해 노력하고 있습니다.
-
----
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Yi%20Himin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
