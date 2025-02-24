@@ -25,7 +25,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihimin&show_icons=true&theme=synthwave)
-
+![GitHub Awards](https://github-profile-trophy.vercel.app/?username=yihimin&theme=dracula&margin-w=15&no-frame=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihimin&layout=compact&theme=synthwave&cache_seconds=86400
 )
 
