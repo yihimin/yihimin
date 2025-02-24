@@ -99,15 +99,7 @@
 ---
 
 ## 🌏 소통하기
-
 <div align="center">
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yihimin)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/희민-이-984366238/)
-[![Blog Badge](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=notion&logoColor=white)](https://medium.com/@yihimin01)
-[![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yihimin@gmail.com)
-
-</div>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yihimin"
@@ -115,5 +107,13 @@
   height="300"
 />
 </a>
+
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yihimin)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/희민-이-984366238/)
+[![Blog Badge](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=notion&logoColor=white)](https://medium.com/@yihimin01)
+[![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yihimin@gmail.com)
+</div>
+
 <br>
 방문해 주셔서 감사합니다! 🚀
