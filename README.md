@@ -11,11 +11,11 @@
 | Date                  | Organization                 | Position      |
 |-----------------------|------------------------------|---------------|
 | 2023-07-02~ 2023-08-25| 쿠팡풀필먼트서비스 개발팀 인턴       | Front End     |
-| 2023.12.30~ 2024.01.14| WFK ICT 교육 봉사 (르완다)       | IT Team Leader|
-| 2023.03.01~ 2024.12.31| 토독 필사페이지                  | Front End     |
+| 2023-12-30~ 2024-01-14| WFK ICT 교육 봉사 (르완다)       | IT Team Leader|
+| 2023-03-01~ 2024-12-31| 토독 필사페이지                  | Front End     |
 | 2024-05-03~ 2024-09-13| 엘리스 프론트엔드 인턴             | Front End     |
 | 2024-05-20~ 2024-06-03| 멍멍냥냥 펫 커뮤니티               | Back End     |
-| 2024.12.02~           | Modern Agile (9term)          | Front End Leader   |
+| 2024-12-02~ 2024-08-31| Modern Agile (9term)          | Front End Leader   |
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihimin&show_icons=true&theme=synthwave)
