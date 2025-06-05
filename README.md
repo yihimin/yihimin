@@ -19,7 +19,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yihimin&show_icons=true&theme=synthwave)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=yihimin&theme=dracula)
 </div>
 
 ---
