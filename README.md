@@ -25,7 +25,7 @@
 ---
 
 ## 🌟 주요 정보
-
+- 👉 [HuiMin Lee’s Portfolio](https://yihimin.notion.site/HuiMin-Lee-1bbf13151be2801aa4ced3f0f6b75e0a)
 - **학력:** 성신여자대학교 (법학과 학사), 인덕대학교 (컴퓨터 소프트웨어 전공, 3학년)
 - **MBTI:** ENFJ | **혈액형:** B
 - **사용 언어:** 한국어 (모국어), 영어 (TOEIC Speaking IH 140), 일본어 (JLPT N1)
