@@ -33,6 +33,11 @@
 - **취미:** 러닝, 문학 읽기, 재즈 감상
 
 ---
+## 🧾 Certifications  
+🟡 [AWS Cloud Practitioner](https://www.credly.com/badges/58786a18-099c-48ac-832b-a05bc132adc8/public_url) — AWS  
+🎓 [Google Cloud Study Jam Completion](https://skillsboost.google/내배지링크) — Google Cloud  
+
+---
 
 ## 🔨 기술 스택
 
